@@ -7,7 +7,7 @@ public class Array8 {
             {4,5,6},
             {7,8,9}       
         };
-        //print the value of the 2dim array
+            //print the value of the 2dim array
         int sum = 0;
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
